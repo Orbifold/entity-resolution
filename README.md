@@ -25,3 +25,5 @@ See the [demo notebook for guidance](./notebooks/demo.ipynb).
 To generate the Sphinx docs simply run
 
     make docs
+
+[You can find the generated documentation with the demo here.](https://orbifold.github.io/entity-resolution/usage.html)
